@@ -1,9 +1,4 @@
-- 👋 Hi, David Hoyt here ...
-
-- 👀 I’m interested in ... sailing, skiing and extreme fun
-- 🌱 I’m currently exploiting ... XNU & Windows Enterprise things
-- 💞️ I’m looking to collaborate on ... Research Projects for IP
-- 📫 How to reach me ... [@h02332](https://twitter.com/h02332) on Twitter
+- 📫 [@h02332](https://twitter.com/h02332)
 
 <!---
 xsscx/xsscx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
